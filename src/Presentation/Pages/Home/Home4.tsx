@@ -33,7 +33,7 @@ const Home3 = () => {
         </p>
         <div className="flex flex-col md:flex-wrap md:flex-row w-full gap-0 overflow-x-clip mt-5 justify-center items-start">
           {items.map((item, index) => (
-            <_Item key={index} img={item} />
+            <Item key={index} img={item} />
           ))}
         </div>
       </div>
@@ -47,7 +47,7 @@ type ItemProps = {
   img: string;
 };
 
-const _Item = (props: ItemProps) => {
+const Item = (props: ItemProps) => {
   return (
     <div className="rounded-xl mx-5 p-2 md:w-1/3 lg:w-1/4">
       <img src={props.img} alt="Proyecto" className="rounded-xl" />
