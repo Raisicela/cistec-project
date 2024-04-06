@@ -14,10 +14,10 @@ const Home1 = () => {
     >
       <div className="flex flex-col md:flex-row lg:justify-between items-center lg:px-4 lg:gap-20  w-screen mt-5 ">
         <div className="flex flex-col items-center justify-center border-solid border-4 border-black w-90vw p-[3%] md:w-2/3 m-[4%] my-[10%]">
-          <p className="font-poppins text-black text-[29px] md:text-[44px] lg:text-[50px] font-bold text-center">
+          <p className="poppins-black text-black text-[29px] md:text-[44px] lg:text-[50px] font-bold text-center">
             ESPECIALISTAS EN CONSTRUCCIÓN
           </p>
-          <p className="font-poppins text-black text-[18px] lg:text-[35px] text-center">
+          <p className="poppins-light text-black text-[18px] lg:text-[35px] text-center">
             CIVIL E INDUSTRIAL DEL ECUADOR
           </p>
         </div>

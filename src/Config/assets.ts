@@ -38,6 +38,8 @@ enum APP_ASSETS {
   // HOME_BG9 = "assets/home/home_bg9.png",
 
   HOME_IMG1 = "/assets/home/home_img1.png",
+  HOME_IMG2 = "/assets/home/home_img2.png",
+  HOME_IMG3 = "/assets/home/home_img3.png",
   // HOME_WHY1 = "/assets/home/why1.svg",
   // HOME_WHY2 = "/assets/home/why2.svg",
   // HOME_WHY3 = "/assets/home/why3.svg",
