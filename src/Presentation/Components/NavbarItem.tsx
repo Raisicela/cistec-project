@@ -15,9 +15,11 @@ export const NavbarItem = (props: Props) => {
     <li className="mx-4">
       <Link
         to={props.link}
-        className={`${props.selected ? "font-normal" : "font-bold"} ${
+        className={`${
+          props.selected ? "poppins-regular" : "poppins-semibold"
+        } ${
           props.titleColor ? "text-[#4B2A1D]" : "text-white"
-        } font-poppins md:text-[13px] lg:text-[15px]`}
+        } md:text-[13px] lg:text-[15px]`}
         onClick={props.onClick}
       >
         {props.title}

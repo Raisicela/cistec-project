@@ -10,7 +10,7 @@ enum NavbarItemEnum {
   PROJECTS = "OBRAS",
   ABOUT = "QUIÉNES SOMOS",
   CATALOG = "CATÁLOGO",
-  CONTACT = "CONTACTENOS",
+  CONTACT = "CONTÁCTENOS",
 }
 
 function Navbar() {
