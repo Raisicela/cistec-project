@@ -1,0 +1,12 @@
+/* text-[12px] text-[#00000080] text-justify */
+.homeTitle {
+    font-size: 12px;
+    color: #00000080;
+    text-align: justify;
+}
+
+.homeSubTitle {
+    font-size: 12px;
+    color: #00000080;
+    text-align: justify;
+}
