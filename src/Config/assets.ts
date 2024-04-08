@@ -11,7 +11,7 @@ enum APP_ASSETS {
   // LOGO_FACEBOOK_B = "/assets/logo_facebook_b.svg",
   // LOGO_TIKTOK_B = "/assets/logo_tiktok_b.svg",
   // LOGO_LINKEDIN_B = "/assets/logo_linkedin_b.svg",
-  // LOGO_WHATSAPP = "/assets/logo_whatsapp.svg",
+  LOGO_WHATSAPP = "/assets/social_media/logo_whatsapp.png",
   // LOGO_MOUSE = "/assets/logo_mouse.svg",
   // LOGO_MOUSE2 = "/assets/logo_mouse2.svg",
   // LOGO_NEXT = "/assets/logo_next.svg",
