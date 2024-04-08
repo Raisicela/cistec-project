@@ -32,9 +32,9 @@ enum APP_ASSETS {
   HOME_BG4_10 = "assets/home/home_bg4_10.png",
   HOME_BG4_11 = "assets/home/home_bg4_11.png",
   HOME_BG4_12 = "assets/home/home_bg4_12.png",
-  // HOME_BG5 = "assets/home/home_bg5.png",
+  HOME_BG5 = "assets/home/home_bg5.png",
   // HOME_BG6 = "assets/home/home_bg6.png",
-  // HOME_BG8 = "assets/home/home_bg8.png",
+  HOME_BG8 = "assets/home/home_bg8.png",
   // HOME_BG9 = "assets/home/home_bg9.png",
 
   HOME_IMG1 = "/assets/home/home_img1.png",
