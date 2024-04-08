@@ -39,7 +39,7 @@ function Home8() {
           }}
         >
           <div>
-            <section className="bg-[#D9D9D9] w-[90%] flex flex-col justify-center md:w-screen mx-6 md:mx-5 rounded-lg p-5 md:p-10 mb-10 items-center">
+            <section className="bg-[#D9D9D9] w-[90%] flex flex-col justify-center md:w-[95%] mx-6 md:mx-5 rounded-lg p-5 md:p-10 mb-10 items-center">
               <p className="poppins-regular text-3xl text-center">
                 ¿Estas interesado en contratar o consultar sobre nuestros
                 servicios para tus proyectos?

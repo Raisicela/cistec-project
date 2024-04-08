@@ -8,6 +8,7 @@ import Contact from "./Presentation/Pages/Contact";
 import { ROUTES } from "./Config/Routes";
 import Navbar from "./Presentation/Components/Navbar";
 import Projects from "./Presentation/Pages/Projects";
+import WhatsappButton from "./Presentation/Components/WhatsappButton";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path={ROUTES.CATALOG} element={<Catalog />} />
         <Route path={ROUTES.CONTACT} element={<Contact />} />
       </Routes>
+      <WhatsappButton />
     </BrowserRouter>
   );
 }

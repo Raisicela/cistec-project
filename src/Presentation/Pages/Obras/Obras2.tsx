@@ -83,7 +83,7 @@ const obras: Obra[] = [
 const Obras2 = () => {
   return (
     <div
-      className=" lg:w-screen bg-white flex flex-row"
+      className=" lg:w-screen bg-white flex flex-row pb-16"
       style={{
         backgroundImage: `url(${APP_ASSETS.OBRAS_BG2})`,
         backgroundRepeat: "no-repeat",

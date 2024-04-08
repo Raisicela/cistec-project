@@ -6,7 +6,7 @@ function Home6() {
     <video
       className="max-w-[100%] rounded-3xl items-center px-5 md:px-48 py-10"
       controls
-      autoPlay
+      autoPlay={false}
     >
       <source src={APP_ASSETS.HOME_VIDEO6} type="video/mp4" />
     </video>
