@@ -68,7 +68,7 @@ const Home3 = () => {
         </p>
         <div className="flex flex-col md:flex-wrap md:flex-row w-full gap-5 overflow-x-clip mt-5 justify-center items-start">
           {items.map((item, index) => (
-            <_Item key={index} {...item} />
+            <Item key={index} {...item} />
           ))}
         </div>
       </div>
@@ -84,7 +84,7 @@ type ItemProps = {
   description: string;
 };
 
-const _Item = (props: ItemProps) => {
+const Item = (props: ItemProps) => {
   return (
     <div className="flex flex-col rounded-xl bg-[#E0E0E0C8] mx-5 p-5 md:w-1/3 lg:w-1/4">
       <p className="text-5xl poppins-bold text-center text-[#444242]">
