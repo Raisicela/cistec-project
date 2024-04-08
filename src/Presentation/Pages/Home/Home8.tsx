@@ -28,7 +28,7 @@ function Home8() {
 
   return (
     <>
-      <main className=" min-h-screen w-screen flex-col items-center">
+      <main className=" min-h-screen w-screen flex flex-col justify-center items-center">
         <div
           className="h-full w-[100%] flex flex-col py-10"
           style={{
@@ -39,6 +39,12 @@ function Home8() {
           }}
         >
           <div>
+            <section className="bg-[#D9D9D9] w-[90%] flex flex-col justify-center md:w-screen mx-6 md:mx-5 rounded-lg p-5 md:p-10 mb-10 items-center">
+              <p className="poppins-regular text-3xl text-center">
+                ¿Estas interesado en contratar o consultar sobre nuestros
+                servicios para tus proyectos?
+              </p>
+            </section>
             <div className="px-10 lg:px-24">
               <p className="poppins-semibold text-primary text-[36px] pt-5 text-center text-white">
                 FORMULARIO

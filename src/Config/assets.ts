@@ -42,13 +42,19 @@ enum APP_ASSETS {
 
   ABOUT_BG1 = "/assets/about/about_bg1.png",
 
-  CONTACT_BG1 = "/assets/contact/contact_bg1.png",
-  CONTACT_BG2 = "/assets/contact/contact_bg2.png",
-  CONTACT_ICON1 = "/assets/contact/contact_icon1.png",
-  CONTACT_ICON2 = "/assets/contact/contact_icon2.png",
-  CONTACT_ICON3 = "/assets/contact/contact_icon3.png",
-  CONTACT_ICON4 = "/assets/contact/contact_icon4.png",
-  CONTACT_ICON5 = "/assets/contact/contact_icon5.png",
+  CATALOG_BG1 = "/assets/catalog/catalog_bg1.png",
+  CATALOG_BG3_1 = "/assets/catalog/catalog_bg3_1.png",
+  CATALOG_BG3_2 = "/assets/catalog/catalog_bg3_2.png",
+  CATALOG_BG3_3 = "/assets/catalog/catalog_bg3_3.png",
+  CATALOG_IMG1 = "/assets/catalog/catalog_img1.png",
+  CATALOG_IMG3_1 = "/assets/catalog/catalog_img3_1.png",
+  CATALOG_IMG3_2 = "/assets/catalog/catalog_img3_2.png",
+  CATALOG_IMG3_3 = "/assets/catalog/catalog_img3_3.png",
+  CATALOG_IMG3_4 = "/assets/catalog/catalog_img3_4.png",
+  CATALOG_IMG3_5 = "/assets/catalog/catalog_img3_5.png",
+  CATALOG_IMG3_6 = "/assets/catalog/catalog_img3_6.png",
+
+
   // HOME_WHY1 = "/assets/home/why1.svg",
   // HOME_WHY2 = "/assets/home/why2.svg",
   // HOME_WHY3 = "/assets/home/why3.svg",
@@ -70,6 +76,14 @@ enum APP_ASSETS {
   OBRAS_BG2_10 = "/assets/obras/Obras2_10.png",
   OBRAS_BG2_11 = "/assets/obras/Obras2_11.png",
   OBRAS_BG2_12 = "/assets/obras/Obras2_12.png",
+
+  CONTACT_BG1 = "/assets/contact/contact_bg1.png",
+  CONTACT_BG2 = "/assets/contact/contact_bg2.png",
+  CONTACT_ICON1 = "/assets/contact/contact_icon1.png",
+  CONTACT_ICON2 = "/assets/contact/contact_icon2.png",
+  CONTACT_ICON3 = "/assets/contact/contact_icon3.png",
+  CONTACT_ICON4 = "/assets/contact/contact_icon4.png",
+  CONTACT_ICON5 = "/assets/contact/contact_icon5.png",
 
   // PROYECTOS_BG = "/assets/proyectos/bg.png",
   // PROYECTO1_1 = "/assets/proyectos/pr1_1.png",

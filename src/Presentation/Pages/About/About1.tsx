@@ -12,16 +12,16 @@ function About1() {
         backgroundPosition: "center",
       }}
     >
-      <div className="flex flex-col md:flex-row lg:justify-between items-center lg:px-4 lg:gap-20  w-screen mt-5 ">
-        <div className="h-36 w-[20%] md:px-8">
+      <div className="flex flex-col md:flex-row md:justify-center items-center lg:px-4 lg:gap-20  w-screen mt-5 ">
+        <div className="hidden xl:block  md:px-8 xl:absolute xl:top-10 xl:left-5">
           <img
-            className="md:w-[50%]"
+            className="md:w-[10%] aspect-auto"
             src={APP_ASSETS.HOME_IMG1}
-            alt="Services"
+            alt="Quienes somos"
           />
         </div>
-        <div className="flex flex-col items-center justify-center w-100vw p-[3%] md:w-2/3 m-[4%] my-[10%]">
-          <p className=" text-black md:text-9xl font-bold text-center">
+        <div className="flex flex-col items-center justify-center w-90vw p-[3%] md:w-2/3 m-[4%] my-[10%]">
+          <p className=" text-black text-[29px] md:text-[44px] lg:text-7xl font-bold text-center">
             CISTEC
           </p>
         </div>
