@@ -19,7 +19,7 @@ function Contact2() {
           aria-hidden="false"
         ></iframe>
       </div>
-      <section className="bg-[#D9D9D9] w-[90%] md:w-5/12 mx-6 md:mx-40 rounded-lg p-5 md:p-10 mt-10 items-center">
+      <section className="bg-[#D9D9D9] w-[90%] md:w-6/12 mx-6 md:mx-40 rounded-lg p-5 md:p-10 mt-10 items-center">
         <div className="flex flex-row gap-4">
           <img src={APP_ASSETS.CONTACT_ICON1} alt="" />
           <p className="poppins-semibold text-2xl md:text-3xl">Oficinas</p>
@@ -41,11 +41,10 @@ function Contact2() {
             info@cistececuador.com
           </p>
         </div>
-        <div className="flex flex-row gap-4">
+        <div className="flex flex-row gap-4 items-center">
+          <img src={APP_ASSETS.CONTACT_ICON5} alt="" />
           <p className="poppins-light text-sm md:text-lg leading-6">
-            <img src={APP_ASSETS.CONTACT_ICON5} alt="" />
-            Nazareth OE 1-33 y Av. Galo Plaza Lasso <br />
-            Quito, Pichincha 170530
+            Nazareth OE 1-33 y Av. Galo Plaza Lasso Quito, Pichincha 170530
           </p>
         </div>
       </section>
